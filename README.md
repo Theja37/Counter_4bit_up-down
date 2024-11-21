@@ -57,7 +57,6 @@ Functional Simulation:
 
 ### Verilog code for 4-Bit Up-Down Counter:
 
-*/Program  for  4-Bit Up-Down Counter
 
 `timescale 1ns / 1 ns
 module counter(clk,m,rst,count);
@@ -109,7 +108,6 @@ initial
 
 endmodule
 
-*/Test bench Program  for  4-Bit Up-Down Counter
 
 ### To Launch Simulation tool
 	linux:/> nclaunch -new&            // “-new” option is used for invoking NCVERILOG for the first time for any design
